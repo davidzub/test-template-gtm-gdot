@@ -15,5 +15,5 @@
 homepage: "https://www.grupodot.com/"
 documentation: "https://www.grupodot.com/"
 versions:
-  - sha: 1ccf8da056f71c4d668efc9f33bedd2d9aaa75ee
+  - sha: e16293b8fe51f972ee279fc8ffdcce7e7128c098
     changeNotes: Initial Version
